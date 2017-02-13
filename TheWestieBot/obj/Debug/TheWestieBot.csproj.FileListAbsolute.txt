@@ -1,0 +1,42 @@
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Bot Application1.dll.config
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Bot Application1.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Bot Application1.pdb
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Autofac.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Chronic.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Microsoft.Bot.Builder.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Microsoft.Bot.Connector.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Newtonsoft.Json.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\System.Net.Http.Formatting.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\System.Web.Http.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\System.Web.Http.WebHost.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Autofac.xml
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Microsoft.Bot.Builder.xml
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Microsoft.Bot.Connector.xml
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\Newtonsoft.Json.xml
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\System.Net.Http.Formatting.xml
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\System.Web.Http.xml
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\System.Web.Http.WebHost.xml
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\obj\Debug\TheWestieBot.csprojResolveAssemblyReference.cache
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\obj\Debug\Bot Application1.dll
+c:\users\louis\onedrive\documents\visual studio 2015\Projects\TheWestieBot\TheWestieBot\obj\Debug\Bot Application1.pdb
